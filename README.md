@@ -7,7 +7,7 @@ This mod is inspired by Cara Calena's (aka Redaxle) Petite bodies patch, and the
 
 This mod is sponsored by a __Mysterious Patron__.
 
-original post: https://forums.darknestfantasy.com/index.php?threads/9-2-beta-petite-bodies-mod-shadowlands-edition-pbmse.49238/#post-727203
+original post: https://forums.darknestfantasy.com/index.php?threads/petite-bodies-mod-dragonflight-edition-pbmde.50892/
 
 
 # WHAT HAVE CHANGED
