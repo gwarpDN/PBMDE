@@ -25,6 +25,7 @@ original post: https://forums.darknestfantasy.com/index.php?threads/9-2-beta-pet
 7. (For Arctium launcher related question, head to their discord channel https://arctium.io/discord)
 
 # KNOWN ISSUE
+only BE working, need updates
 
 # PREVIEW
 * Google Doc
@@ -32,6 +33,7 @@ https://docs.google.com/document/d/1zAIe6Eg8OM8_glh5b19iwOySvZxSvR4Nq_LuiyN52L8/
 * Video playlist
 https://www.youtube.com/playlist?list=PLYckRCzMPugwTEQwiZIbCP78bHyWAbwzE
 * Mesh index for 10.0 models, if you are a modder or wanna become one, this would be helpful to you; if not, you dont need to click this.
+https://docs.google.com/spreadsheets/d/1svvcP5di1rMvaRerSJM3cK7pl61uiQnu/edit?usp=sharing&ouid=112440420791693774923&rtpof=true&sd=true
 
 # LICENSE
 You may include my files in your own works (mod or artwork) and alter them in any way. Just credit me if you wish to publish your works.
