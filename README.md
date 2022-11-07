@@ -25,7 +25,8 @@ original post: https://forums.darknestfantasy.com/index.php?threads/petite-bodie
 7. (For Arctium launcher related question, head to their discord channel https://arctium.io/discord)
 
 # KNOWN ISSUE
-untested
+1. untested
+2. need work on new ld textures
 
 # PREVIEW
 * Google Doc
