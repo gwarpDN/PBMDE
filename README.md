@@ -26,7 +26,6 @@ original post: https://forums.darknestfantasy.com/index.php?threads/petite-bodie
 
 # KNOWN ISSUE
 1. untested
-2. need work on new ld textures
 
 # PREVIEW
 * Google Doc
