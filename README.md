@@ -26,7 +26,7 @@ original post: https://forums.darknestfantasy.com/index.php?threads/petite-bodie
 
 # KNOWN ISSUE
 1. nb crash
-2. be hair 0
+2. be hair 0 error
 
 # PREVIEW
 * Google Doc
