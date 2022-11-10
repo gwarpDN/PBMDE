@@ -25,8 +25,7 @@ original post: https://forums.darknestfantasy.com/index.php?threads/petite-bodie
 7. (For Arctium launcher related question, head to their discord channel https://arctium.io/discord)
 
 # KNOWN ISSUE
-1. nb crash
-2. be hair 0 error
+
 
 # PREVIEW
 * Google Doc
